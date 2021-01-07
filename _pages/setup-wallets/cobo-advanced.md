@@ -20,13 +20,13 @@ CertUtil: -hashfile command completed successfully.
 
 (This is accurate for `v.1.4.0` but will become stale for future releases. Calculate the hash digest of the new file and confirm that it matches what's published by the company.)
 
-#### Use dice to create your own entropy when generating your seed
+#### Generate your own seedphrase
 
-Instructions:  
+Using seedpicker:  
+https://support.cobo.com/hc/en-us/articles/360060645233-Construct-Your-Own-Recovery-Phrase
+
+Using dice:  
 https://support.cobo.com/hc/en-us/articles/360050478133-How-to-Use-Dice-to-Generate-Your-Recovery-Phrase
-
-Verification:  
-https://medium.com/cobo-vault/how-to-verify-the-recovery-phrase-created-by-dice-rolling-be86b30810c1
 
 ## Not Perfect
 No device is perfect and this one is no exception.
